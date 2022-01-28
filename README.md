@@ -12,8 +12,7 @@
 - Leadership
 - Motivation
 - Constantly learning
-- I’m currently learning Blazor WebAssembly 
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="blank">
+- I’m currently learning Blazor WebAssembly <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="blank">
     <img align="center" src="https://www.delta-n.nl/wp-content/uploads/2019/10/BrandBlazor_300.png" alt="BlazorWebAssembly" width="40" height="40" />
 </a>
 
