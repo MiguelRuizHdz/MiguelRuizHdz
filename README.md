@@ -1,6 +1,7 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Miguel Ruiz </h1>
 
+![Banner](Banner.jpg)
 
 <h2 align="center"> I'm a Web and Mobile Apps Developer and Designer </h2>
 
