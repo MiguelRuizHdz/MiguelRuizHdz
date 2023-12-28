@@ -1,11 +1,24 @@
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Miguel Ruiz </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there!, I'm Miguel Ruiz </h1>
 
 ![Banner](Banner.jpg)
 
-<h2 align="center"> I'm a Web and Mobile Apps Developer and Designer </h2>
+<h2 align="center">Building Experiences: Web & Mobile Apps 👨🏻‍💻🌐📱</h2>
 
-<p>I'm a Systems Administration Engineering student, interested in Full Stack software development and specialized in Web Development and Mobile Apps.</p>
+<p>Welcome to my corner of the coding world! I'm a passionate Software Engineer diving deep into the realms of Full Stack development. My expertise lies in crafting exceptional Web and Mobile Apps, where design meets functionality.</p>
+
+<p>With a keen eye for detail and a love for creating seamless user experiences, I thrive in the dynamic landscape of technology, continuously exploring new tools and frameworks.</p>
+
+<p>Let's build something awesome together!</p>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/MiguelRuizHdz/" target="blank">
+        <img style="border-radius:2em;" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MiguelRuizHdz" />
+    </a>
+</p>
+
+<!-- *** -->
+
 
 ## My strengths:
 - Responsibility
@@ -46,6 +59,9 @@ Here are some ideas to get you started:
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt="TypeScript" width="40" height="40"/> 
   </a>
+  <a href="https://www.swift.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> 
+  </a>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
@@ -54,6 +70,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   </a>
 </p>
 
@@ -68,20 +87,26 @@ Here are some ideas to get you started:
     <a href="https://reactnative.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactNative" width="40" height="40"/>
     </a>
+    <a href="https://vuejs.org/" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40" />
+    </a>
     <a href="https://nodejs.org/en/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"/>
     </a>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" width="40" height="40"/>
+    <a href="https://nestjs.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nestjs" width="40" height="40"/>
     </a>
     <a href="http://expressjs.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Expressjs" width="40" height="40"/>
     </a>
-    <a href="https://unity.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="blank">
         <img src="https://www.delta-n.nl/wp-content/uploads/2019/10/BrandBlazor_300.png" alt="BlazorWebAssembly" width="40" height="40" />
+    </a>
+    <a href="https://unity.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
     </a>
 </p>
 
@@ -124,18 +149,12 @@ Here are some ideas to get you started:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
     </a>  
     <a href="https://code.visualstudio.com/" target="_blank"> 
-        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
-    </a>  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
+    </a>   
 </p>
 
-***
 
-## 📫 How to reach me:
-<p align="left">
-    <a href="https://www.linkedin.com/in/MiguelRuizHdz/" target="blank">
-        <img style="border-radius:2em;" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MiguelRuizHdz" />
-    </a>
-</p>
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRuizHdz)](https://github.com/MiguelRuizHdz/github-readme-stats)
 
